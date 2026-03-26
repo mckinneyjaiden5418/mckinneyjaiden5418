@@ -1,4 +1,7 @@
-## Hi there 👋
+## Jaiden McKinney
+- 🔭 I’m currently working on Dizznem Bot 2.0.0
+- 🌱 I’m currently learning data structures & algorithms
+- 📫 How to reach me: [mckinneyjaiden5418@gmail.com](mailto:mckinneyjaiden5418@gmail.com)
 
 <!--
 **mckinneyjaiden5418/mckinneyjaiden5418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
