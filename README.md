@@ -1,17 +1,14 @@
 <div align="center">
-
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=200&text=Jaiden+McKinney&fontColor=e2e8f0&fontSize=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20GRINDER%20%7C%20GOAT&descAlignY=58&descSize=16&descColor=94a3b8)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=currently+building+Dizznem+Bot...;grinding+data+structures...;open+to+collaborations!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mckinneyjaiden5418&color=378ADD&style=flat)
-
 </div>
 
 ---
 
 ### Currently
-
 ![](https://img.shields.io/badge/Building-Dizznem_Bot-1e3a5f?style=flat&labelColor=0f3460&color=378ADD)
 ![](https://img.shields.io/badge/Learning-DSA-14352a?style=flat&labelColor=0a2a1f&color=10b981)
 ![](https://img.shields.io/badge/Status-Open_to_Collabs-3d2408?style=flat&labelColor=2d1a05&color=f59e0b)
@@ -19,9 +16,7 @@
 ---
 
 ### Skills & Tools
-
 ![Skills](https://skillicons.dev/icons?i=python,cpp,java,git)
-
 - **Languages:** Python, C++, Java
 - **Concepts:** Data Structures & Algorithms
 - **Tools:** Git, Database Management
@@ -30,11 +25,8 @@
 
 ### GitHub Stats
 
-![Jaiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mckinneyjaiden5418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=378ADD&text_color=e2e8f0)
+![GitHub Streak](https://streak-stats.demolab.com?user=mckinneyjaiden5418&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=7dd3fc&currStreakLabel=7dd3fc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mckinneyjaiden5418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0)
-
-</div>
 
 ---
 
@@ -48,7 +40,7 @@
 
 <div align="center">
 
-*Currently grinding LeetCode and building cool bots. Let's connect!*
+*Contact me to 1v1 in chess.*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=100&section=footer)
 
