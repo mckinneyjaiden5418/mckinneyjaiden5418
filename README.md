@@ -30,8 +30,6 @@
 
 ### GitHub Stats
 
-<div align="center">
-
 ![Jaiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mckinneyjaiden5418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=378ADD&text_color=e2e8f0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mckinneyjaiden5418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0)
