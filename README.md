@@ -34,7 +34,6 @@
 
 [![Email](https://img.shields.io/badge/Email-mckinneyjaiden5418@gmail.com-1e3a5f?style=flat&logo=gmail&logoColor=white&labelColor=0f3460)](mailto:mckinneyjaiden5418@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaiden_McKinney-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiden-mckinney-768094355/)
-[![Instagram](https://img.shields.io/badge/Instagram-jaiden.software-e1306c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jaiden.software/)
 
 ---
 
