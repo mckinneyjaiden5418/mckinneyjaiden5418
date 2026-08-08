@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=200&text=Jaiden+McKinney&fontColor=e2e8f0&fontSize=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20GRINDER%20%7C%20GOAT&descAlignY=58&descSize=16&descColor=94a3b8)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=currently+building+Dizznem+Bot...;grinding+data+structures...;open+to+collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=currently+building+Dizznem+Bot...;grinding...;open+to+collaborations!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mckinneyjaiden5418&color=378ADD&style=flat)
 </div>
@@ -10,7 +10,7 @@
 
 ### Currently
 ![](https://img.shields.io/badge/Building-Dizznem_Bot-1e3a5f?style=flat&labelColor=0f3460&color=378ADD)
-![](https://img.shields.io/badge/Learning-DSA-14352a?style=flat&labelColor=0a2a1f&color=10b981)
+![](https://img.shields.io/badge/Learning-Discrete_Computational_Structures-14352a?style=flat&labelColor=0a2a1f&color=10b981)
 ![](https://img.shields.io/badge/Status-Open_to_Collabs-3d2408?style=flat&labelColor=2d1a05&color=f59e0b)
 
 ---
