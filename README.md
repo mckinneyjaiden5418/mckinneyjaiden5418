@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=200&text=Jaiden+McKinney&fontColor=e2e8f0&fontSize=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20GRINDER%20%7C%20GOAT&descAlignY=58&descSize=16&descColor=94a3b8)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=currently+building+Dizznem+Bot...;grinding...;open+to+collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=currently+building+Dizznem+Bot...;grinding+projects...;open+to+collaborations!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mckinneyjaiden5418&color=378ADD&style=flat)
 </div>
